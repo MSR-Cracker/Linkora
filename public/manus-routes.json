@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Linkora — Home"},{"path":"/app","title":"Linkora — Create a drop"},{"path":"/s/:id","title":"Linkora — Shared item"}]}
